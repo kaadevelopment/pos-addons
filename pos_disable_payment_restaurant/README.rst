@@ -6,7 +6,7 @@
  Disable options in POS (restaurant extension)
 ===============================================
 
-Control access to POS Restaurant options
+Control to POS Restaurant options
 
 The module adds new options on user form (``Point of Sale`` tab):
 
