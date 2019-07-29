@@ -15,7 +15,7 @@ Credits
 
 Contributors
 ------------
-* Dinar Gabbasov <gabbasov@it-projects.info>
+* Dinar Gabbaso <gabbasov@it-projects.info>
 
 Sponsors
 --------
