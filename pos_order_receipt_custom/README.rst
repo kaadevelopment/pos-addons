@@ -44,4 +44,4 @@ Changelog: `<doc/changelog.rst>`_
 
 Notifications on updates: `via Atom <https://github.com/it-projects-llc/pos-addons/commits/11.0/pos_order_receipt_custom.atom>`_, `by Email <https://blogtrottr.com/?subscribe=https://github.com/it-projects-llc/pos-addons/commits/11.0/pos_order_receipt_custom.atom>`_
 
-Tested on Odoo 11.0 9d20d40cd0f188eda788077a0559b772810b30ee
+Tested on Odoo 12.0 9d20d40cd0f188eda788077a0559b772810b30ee
