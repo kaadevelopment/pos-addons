@@ -5,7 +5,7 @@
     "summary": """Simple way to apply discount for all order items""",
     "category": "Point of Sale",
     "images": [],
-    "version": "12.0.1.0.0",
+    "version": "12.0.1.1.0",
     "application": False,
 
     "author": "IT-Projects LLC, Ivan Yelizariev",
