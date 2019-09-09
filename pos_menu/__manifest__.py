@@ -27,7 +27,7 @@
     ],
     "qweb": [],
     "demo": [
-        "demo/product_set_demo.xml"
+        "demo/product_se_demo.xml"
     ],
 
     "post_load": None,
