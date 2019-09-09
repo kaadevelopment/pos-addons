@@ -1,4 +1,4 @@
-`1.2.3`
+`1.2.4`
 -------
 
 **Fix:** Paymentlines were not displayed on the ticket when an invoice is partially paid
