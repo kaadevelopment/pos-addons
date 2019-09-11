@@ -14,7 +14,7 @@ Usage
 
   * Click ``[Create]`` or edit an existing one
   * Check the box **[x] Custom Order Receipt**
-  * Select ``Print Template`` or create new one
+  * Select ``Print Template`` or create ne one
   * Click ``[Save]``
 
 * Open POS session

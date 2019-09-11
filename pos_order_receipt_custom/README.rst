@@ -23,7 +23,7 @@ Maintainers
 -----------
 * `IT-Projects LLC <https://it-projects.info>`__
 
-      To get a guaranteed support
+      To get a guaranteed suppor
       you are kindly requested to purchase the module 
       at `odoo apps store <https://apps.odoo.com/apps/modules/12.0/pos_order_receipt_custom/>`__.
 

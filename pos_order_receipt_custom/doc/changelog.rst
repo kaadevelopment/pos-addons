@@ -1,4 +1,4 @@
-`1.0.5`
+`1.0.7`
 -------
 
 **Fix:** The error of adding products if the pos_restaurant module is installed (when there are no floors in the restaurant)
