@@ -3,7 +3,7 @@
 Updates
 =======
 
-`1.2.7`
+`2.2.7`
 -------
 
 - **FIX:** Error if the discount product is not allowed in POS
