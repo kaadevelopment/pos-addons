@@ -1,4 +1,4 @@
-`1.3.2`
+`1.3.4`
 -------
 
 - **IMP:** More notes in popup
