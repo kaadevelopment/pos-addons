@@ -4,7 +4,7 @@
     "summary": """Synchronize product sets across several POSes""",
     "category": "Point of Sale",
     "images": ["images/pos_multi_session_menu_main.jpg"],
-    "version": "10.0.1.0.0",
+    "version": "10.0.2.0.0",
     "application": False,
 
     "author": "IT-Projects LLC, Dinar Gabbasov",
