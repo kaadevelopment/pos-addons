@@ -1,4 +1,4 @@
-`1.0.1`
+`1.1.1`
 -------
 
 - **FIX** - Error when showing error if webcam couldn't be started
