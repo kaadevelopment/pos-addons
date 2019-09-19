@@ -1,3 +1,8 @@
+`1.2.3`
+-------
+
+- **Fix:** Better compatibility with other pos module
+
 `1.2.1`
 -------
 
