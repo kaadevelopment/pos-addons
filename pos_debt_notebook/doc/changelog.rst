@@ -1,4 +1,4 @@
-`5.3.1`
+`5.3.3`
 -------
 - **Fix:** Credit Product Field was accessible only with **Show Full Accounting Features** option enabled so it has been moved to Sales tab
 
