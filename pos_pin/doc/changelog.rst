@@ -1,4 +1,4 @@
-`1.2.2`
+`1.3.2`
 -------
 
 - **Fix:** Id of undefined error appeared when a pin was entered correctly
